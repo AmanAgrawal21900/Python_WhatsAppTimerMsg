@@ -9,3 +9,5 @@
 ## Screen shots
 
 - Main Window
+
+![2020-08-31 (6)](https://user-images.githubusercontent.com/64532019/91744378-099cfa00-ebd7-11ea-842f-b21a08cb0f59.png)
